@@ -22,5 +22,5 @@ Matplotlib
 
 ## File Descriptions
 women_in_olympics.ipynb contains the code for data reading, wrangling, exploration and visualizations. <br>
-athlete_events.csv is the main data source for the project, which contains information about athletes participating in Olympics.
+athlete_events.rar contains athlete_events.csv which is the main data source for the project, which contains information about athletes participating in Olympics.
 noc_regions.csv contains information about the NOCs associated with different countries.
