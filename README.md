@@ -24,3 +24,9 @@ Matplotlib
 women_in_olympics.ipynb contains the code for data reading, wrangling, exploration and visualizations. <br>
 athlete_events.rar contains athlete_events.csv which is the main data source for the project, which contains information about athletes participating in Olympics.
 noc_regions.csv contains information about the NOCs associated with different countries.
+
+## Lincesing, Authors, Acknowledgements
+This dataset was collated by rgriffin on Kaggle.com. Link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results/metadata
+CC0: Public Domain
+
+This project is authored by Dharini Sudarsan
